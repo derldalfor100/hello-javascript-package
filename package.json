@@ -1,6 +1,6 @@
 {
   "name": "hello-javascript-package",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "prints \"hello javascript\" to the console",
   "main": "hello_javascript.js",
   "scripts": {
