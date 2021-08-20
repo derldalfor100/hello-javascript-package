@@ -1,0 +1,26 @@
+{
+  "name": "hello-javascript-package",
+  "version": "0.1.0",
+  "description": "prints \"hello javascript\" to the console",
+  "main": "hello_javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derldalfor100/hello-javascript-package.git"
+  },
+  "keywords": [
+    "hello",
+    "javascript",
+    "insanely",
+    "useful"
+  ],
+  "author": "derldalfor100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derldalfor100/hello-javascript-package/issues"
+  },
+  "homepage": "https://github.com/derldalfor100/hello-javascript-package#readme",
+  "bin": { "hello_javascript":"hello_javascript.js" }
+}
