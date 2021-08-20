@@ -1,6 +1,6 @@
 {
   "name": "hello-javascript-package",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "prints \"hello javascript\" to the console",
   "main": "hello_javascript.js",
   "scripts": {
@@ -22,5 +22,7 @@
     "url": "https://github.com/derldalfor100/hello-javascript-package/issues"
   },
   "homepage": "https://github.com/derldalfor100/hello-javascript-package#readme",
-  "bin": { "hello_javascript":"hello_javascript.js" }
+  "bin": {
+    "hello_javascript": "hello_javascript.js"
+  }
 }
